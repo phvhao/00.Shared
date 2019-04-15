@@ -1,25 +1,30 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Đã phát hành OhasoftQuiz 4.0.1.6</title>
+<title>Đã phát hành OhasoftQuiz 4.0.1.7</title>
 <version>4.0.0.2</version>
-<url>http://fasoft.com.vn/software/ohasoft/OhasoftQuizSetup4.0.1.6.exe</url>
-<update_version>4.0.1.6</update_version>
-<update_url>http://fasoft.com.vn/software/ohasoft/OhasoftQuizUpdate.exe</update_url>
+<url>https://raw.githubusercontent.com/phvhao/00.Shared/master/OhasoftQuiz/OhasoftQuizSetup4.0.1.7.exe</url>
+<update_version>4.0.1.7</update_version>
+<update_url>https://raw.githubusercontent.com/phvhao/00.Shared/master/OhasoftQuiz/OhasoftQuizUpdate.exe</update_url>
 <card_on></card_on>
 <card_vendor>GB</card_vendor>
 <card_message>&lt;br/&gt;&lt;div align="center"&gt;Hiện tác các loại thẻ cào đang bảo trì. &lt;font color="#ED1C24"&gt;Vui lòng ủng hộ bằng hình thức chuyển khoản!&lt;/font&gt;&lt;/div&gt;</card_message>
 <changelog>
-&lt;b&gt;Version 4.0.1.6:&lt;/b&gt;
-&lt;br/&gt;-Cập nhật cấu trúc danh mục
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;b&gt;Version 4.0.1.4:&lt;/b&gt;
-&lt;br/&gt;-Cập nhật đáp án: Thiết kế-Pháp luật riêng câu 14
-&lt;br/&gt;-Cập nhật đáp án: Kiểm định Giao thông-Chuyên môn câu 178
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;b&gt;Version 4.0.0.2:&lt;/b&gt;
-&lt;br/&gt;-Cập nhật dữ liệu theo quyết định 1623-QD-BXD_26122018
-&lt;br/&gt;-Cập nhật đánh giá ĐẠT/KHÔNG ĐẠT
+  &lt;b&gt;Version 4.0.1.7:&lt;/b&gt;
+  &lt;br/&gt;Update câu hỏi:
+  &lt;br/&gt;-PL riêng gám sát: Câu 22
+  &lt;br/&gt;-Giam sát giao thông: Câu 34, 36
+  &lt;br/&gt;-Định giá: Câu 45
+  &lt;b&gt;Version 4.0.1.6:&lt;/b&gt;
+  &lt;br/&gt;-Cập nhật cấu trúc danh mục
+  &lt;br/&gt;
+  &lt;br/&gt;
+  &lt;b&gt;Version 4.0.1.4:&lt;/b&gt;
+  &lt;br/&gt;-Cập nhật đáp án: Thiết kế-Pháp luật riêng câu 14
+  &lt;br/&gt;-Cập nhật đáp án: Kiểm định Giao thông-Chuyên môn câu 178
+  &lt;br/&gt;
+  &lt;br/&gt;
+  &lt;b&gt;Version 4.0.0.2:&lt;/b&gt;
+  &lt;br/&gt;-Cập nhật dữ liệu theo quyết định 1623-QD-BXD_26122018
+  &lt;br/&gt;-Cập nhật đánh giá ĐẠT/KHÔNG ĐẠT
 </changelog>
 </item>

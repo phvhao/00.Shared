@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Đã phát hành OhasoftQuiz 2.0.3.1</title>
-<version>2.0.3.1</version>
-<url>http://fasoft.com.vn/software/ohasoft/OhasoftQuizBidSetup2.0.3.1.exe</url>
+<title>Đã phát hành OhasoftQuiz 3.0.2</title>
+<version>3.0.2.0</version>
+<url>https://raw.githubusercontent.com/phvhao/00.Shared/master/OhasoftQuizBid/OhasoftQuizBidSetup3.0.2.exe</url>
 <update_version>1.0.0.0</update_version>
 <update_url></update_url>
 <card_on></card_on>
 <card_vendor>GB</card_vendor>
 <card_message>Hệ thống nạp thẻ đang bảo trì. Vui lòng ủng hộ bằng hình thức chuyển khoản.</card_message>
 <changelog>
+(#Version 3.0.2.0:#)*
+- Bỏ câu 251 đến 297*
+(#Version 3.0.1.0:#)*
+- Tăng cỡ chữ*
+- Update câu hỏi: 75, 104, 111, 137, 149, 158*
+(#Version 3.0.0.0:#)*
+- Update câu hỏi trắc nghiệm mới nhất: 250 câu BỘ KẾ HOẠCH VÀ ĐẦU TƯ ban hành + phần bổ sung.*
 (#Version 2.0.3.1:#)*
 - Bổ sung in câu hỏi trắc nghiệm.*
 (#Version 2.0.1.0:#)*
